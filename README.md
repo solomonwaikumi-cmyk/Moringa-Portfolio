@@ -61,8 +61,7 @@ Welcome to my technical security vault. This repository documents a journey from
 ---
 
 ## 📬 Connect & Inquire
-* **LinkedIn:** [Solomon Waikumi](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com)
+* **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com) 
 * **Academic:** BCom (Strathmore University) | Cybersecurity (Moringa School)
 
 ---
