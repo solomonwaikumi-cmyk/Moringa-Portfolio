@@ -56,7 +56,7 @@ Welcome to my professional security vault. This repository contains **24+ techni
 ## 📬 Professional Contact
 * **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com)/(solomonmwaura31@gmail.com)
   
-* **Academic Background:** BCom (Strathmore University)
+* **Academic Background:** BCom (Strathmore University).......Moringa School(Proffesional Cybersecurity Certification)
 
 ---
 > *"Security is not a product, but a process." — Bruce Schneier*
