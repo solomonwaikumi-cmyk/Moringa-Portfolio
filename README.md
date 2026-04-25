@@ -44,6 +44,7 @@ Welcome to my professional security vault. This repository contains **24+ techni
 ### 🐍 Custom Security Tooling
 * **[FinSecure Audit Script](./finsecure_audit_tool.py)**: Python tool for automated file permission and session monitoring.
 * **[OTX Threat Harvester](./otx_threat_harvester.py)**: Python integration with AlienVault OTX for automated IoC gathering.
+* ** 🎮 [TryHackMe: Junior Security Analyst Intro](./TryHackMe/Junior-Security-Analyst-Intro.md)
 
 ---
 
