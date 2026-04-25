@@ -1,63 +1,69 @@
 # 🛡️ Cybersecurity Engineering & GRC Portfolio
-### **Solomon Waikumi** | *Bridging Business Strategy (BCom) with Technical Security Excellence*
+### **Solomon Waikumi** | *BCom (Strathmore) 🤝 Cybersecurity (Moringa School)*
 
-[![Status](https://img.shields.io/badge/Portfolio-Complete-success?style=for-the-badge)](#)
-[![Compliance](https://img.shields.io/badge/Frameworks-NIST%20|%20CIS%20|%20MITRE-blue?style=for-the-badge)](#)
-[![Location](https://img.shields.io/badge/Nairobi-Kenya-red?style=for-the-badge)](#)
+<p align="left">
+  <img src="https://img.shields.io/badge/Portfolio-Complete-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rank-Top%2030%25%20Global-orange?style=for-the-badge&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Focus-GRC%20%26%20SecOps-blue?style=for-the-badge" />
+</p>
 
-Welcome to my professional security vault. This repository contains **24+ technical labs** simulating real-world defense, forensics, and risk management scenarios.
+Welcome to my technical security vault. This repository documents a journey from business strategy to deep-technical defense, featuring **24+ professional labs** in network engineering, threat intelligence, and regulatory compliance.
 
 ---
 
-## 🛠️ Technical Arsenal
-| Category | Tools & Technologies |
+## 🛠️ Technical Arsenal & Frameworks
+| Category | Tools & Standards |
 | :--- | :--- |
-| **🛡️ SecOps & SIEM** | ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-003F5C?style=flat-square) ![Greenbone](https://img.shields.io/badge/Greenbone-77bc1f?style=flat-square) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
-| **🐍 Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Regex](https://img.shields.io/badge/Regex-427819?style=flat-square) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
-| **🌐 Networking** | ![VyOS](https://img.shields.io/badge/VyOS-722120?style=flat-square) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Tcpdump](https://img.shields.io/badge/Tcpdump-orange?style=flat-square) |
-| **⚖️ GRC & Risk** | `GDPR` • `HIPAA` • `GLBA` • `NIST 800-53` • `CIS Controls v8.1` |
+| **🔍 SecOps** | ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-003F5C?style=flat-square) ![Greenbone](https://img.shields.io/badge/Greenbone-77bc1f?style=flat-square) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
+| **⚙️ Engineering** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![VyOS](https://img.shields.io/badge/VyOS-722120?style=flat-square) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **⚖️ Compliance** | `NIST SP 800-53` • `ISO 27001` • `CIS Controls v8.1` • `GDPR` • `HIPAA` • `GLBA` |
+| **🕵️ Intelligence** | `MITRE ATT&CK` • `Cyber Kill Chain` • `Diamond Model` • `AlienVault OTX` |
 
 ---
 
-## 🧪 Featured Lab Vault
+## 🚀 Featured Lab Vault (Moringa School)
 
 ### 🕵️ Threat Intelligence & Attribution
-* **[APT29 Cozy Bear Analysis](./APT29_CozyBear_Threat_Hunting_Analysis_Report.pdf)**: Proactive hunt for fileless malware and state-sponsored espionage TTPs.
-* **[Operation Silent Shadow](./Operation_Silent_Shadow_Attribution_and_Mitigation_Report.pdf)**: Full-lifecycle threat attribution and mitigation for government-level intrusions.
-* **[APT10 MITRE Mapping](./APT10_MITRE_ATTACK_Intelligence_Analysis.pdf)**: Investigating the "MenuPass" group using adversarial profiling.
+* **[APT29 Cozy Bear Hunt](./APT29_CozyBear_Threat_Hunting_Analysis_Report.pdf)**: Proactive threat hunting using TTP mapping for state-sponsored espionage.
+* **[Operation Silent Shadow](./Operation_Silent_Shadow_Attribution_and_Mitigation_Report.pdf)**: Full-lifecycle attribution and strategic mitigation report.
+* **[APT10 Intelligence Analysis](./APT10_MITRE_ATTACK_Intelligence_Analysis.pdf)**: Mapped the "MenuPass" actor group to the MITRE ATT&CK framework.
 
-### 🔍 Security Operations & SIEM
-* **[Wazuh SIEM Summative](./Wazuh_SIEM_Log_Analysis_and_Threat_Attribution_Report.pdf)**: Deploying Wazuh via Docker for centralized log ingestion and threat detection.
-* **[Regex Log Forensics](./Log_Analysis_Regex_Forensics_Report.pdf)**: Advanced pattern matching for detecting brute force and odd-hour lateral movement.
-* **[Greenbone Vulnerability Scan](./Greenbone_Vulnerability_Scan_and_Prioritization_Technical_Report.pdf)**: Authenticated vs. Unauthenticated scanning of Windows/Linux targets.
+### 🔍 Security Operations (SIEM & Scanning)
+* **[Wazuh SIEM Deployment](./Wazuh_SIEM_Log_Analysis_and_Threat_Attribution_Report.pdf)**: Centralized log ingestion and threat attribution using Wazuh and Docker.
+* **[Nessus Smart City Audit](./Smart_City_Infrastructure_Vulnerability_Audit_CIS_Report.odt)**: Critical infrastructure audit using CIS Controls v8.1.
+* **[Regex Log Forensics](./Log_Analysis_Regex_Forensics_Report.pdf)**: Parsing raw logs for Indicators of Compromise (IoCs) via Regular Expressions.
 
-### 🏗️ Secure Architecture & Network Engineering
-* **[VyOS Network Segmentation](./Secure_Healthcare_Network_Segmentation_and_Firewall_Audit.pdf)**: Implementing Port 3306 (MySQL) isolation in a healthcare subnet.
-* **[Smart City Infrastructure Audit](./Smart_City_Infrastructure_Vulnerability_Audit_CIS_Report.odt)**: Auditing municipal IoT systems using Nessus and CIS Controls.
-* **[Cloud Migration Security](./Cloud_Web_Server_Security_Migration_Report.pdf)**: Hardening web servers during cloud transitions.
+### 🏗️ Secure Architecture & Engineering
+* **[VyOS Network Segmentation](./Secure_Healthcare_Network_Segmentation_and_Firewall_Audit.pdf)**: Engineering a healthcare network with MySQL port-level filtering.
+* **[Linux System Hardening](./User_Audit_Hardening_Report_Sandlot.pdf.pdf)**: Enforcing the Principle of Least Privilege (PoLP) and PAM policies.
 
-### ⚖️ GRC, Risk & Compliance
-* **[GLBA Vulnerability Assessment](./PaySecure_GLBA_Vulnerability_Assessment_Report.pdf)**: Financial risk prioritization for "PaySecure Solutions."
-* **[DataTrust GRC Strategy](./DataTrust_Solutions_GRC_Audit_and_Strategy_Report.pdf)**: Enterprise-wide audit and strategic roadmap for GRC maturity.
-* **[GDPR Privacy Audit](./GDPR_Compliance_Data_Privacy_Audit_Report.pdf)**: Aligning data sovereignty with EU privacy regulations.
-
-### 🐍 Custom Security Tooling
-* **[FinSecure Audit Script](./finsecure_audit_tool.py)**: Python tool for automated file permission and session monitoring.
-* **[OTX Threat Harvester](./otx_threat_harvester.py)**: Python integration with AlienVault OTX for automated IoC gathering.
-* ** 🎮 [TryHackMe: Junior Security Analyst Intro](./TryHackMe/Junior-Security-Analyst-Intro.md)
+### ⚖️ GRC & Risk Management
+* **[PaySecure GLBA Assessment](./PaySecure_GLBA_Vulnerability_Assessment_Report.pdf)**: Financial sector risk remediation and CVSS prioritization.
+* **[DataTrust GRC Strategy](./DataTrust_Solutions_GRC_Audit_and_Strategy_Report.pdf)**: Enterprise GRC roadmap and compliance alignment.
 
 ---
 
-## 📈 Activity & Professional Stats
-![Stats Card](https://github-readme-stats.vercel.app/api?username=solomonwaikumi-cmyk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomonwaikumi-cmyk&layout=compact&theme=tokyonight)
+## 🎮 TryHackMe Labs (Global Ranking: Top 30%)
+*Detailed technical write-ups documenting global security challenges.*
+
+* 🏛️ **[Governance & Regulation](./TryHackMe/Governance-and-Regulation.md)**: Bridging BCom strategy with technical security policy.
+* 🌐 **[Introductory Networking](./TryHackMe/Introductory-Networking.md)**: Mastered the OSI model, TCP/IP handshakes, and diagnostic tools.
+* 🐧 **[Linux Fundamentals](./TryHackMe/Linux-Fundamentals-Part1.md)**: Terminal proficiency and secure filesystem navigation.
 
 ---
 
-## 📬 Professional Contact
-* **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com)/(solomonmwaura31@gmail.com)
-  
-* **Academic Background:** BCom (Strathmore University).......Moringa School(Proffesional Cybersecurity Certification)
+## 📈 Professional Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=solomonwaikumi-cmyk&show_icons=true&theme=tokyonight" />
+  <img src="https://tryhackme-badges.adrelais.com/api/v1/badge/solomon.mwaura?theme=dark" />
+</p>
 
 ---
-> *"Security is not a product, but a process." — Bruce Schneier*
+
+## 📬 Connect & Inquire
+* **LinkedIn:** [Solomon Waikumi](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com)
+* **Academic:** BCom (Strathmore University) | Cybersecurity (Moringa School)
+
+---
+> *"Turning business risk into technical resilience."*
