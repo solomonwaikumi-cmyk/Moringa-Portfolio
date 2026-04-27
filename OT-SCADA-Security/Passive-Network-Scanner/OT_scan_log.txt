@@ -1,0 +1,3 @@
+OT Traffic Detected: MODBUS from 192.168.10.5 to 192.168.10.22
+OT Traffic Detected: DNP3 from 10.0.5.11 to 10.0.5.1
+OT Traffic Detected: BACnet from 172.16.0.4 to 172.16.0.254
