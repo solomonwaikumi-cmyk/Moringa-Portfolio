@@ -1,68 +1,54 @@
 # 🛡️ Cybersecurity Engineering & GRC Portfolio
-### **Solomon Waikumi** | *BCom (Strathmore) 🤝 Cybersecurity (Moringa School)*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Portfolio-Complete-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rank-Top%2030%25%20Global-orange?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Focus-GRC%20%26%20SecOps-blue?style=for-the-badge" />
-</p>
-
-Welcome to my technical security vault. This repository documents a journey from business strategy to deep-technical defense, featuring **24+ professional labs** in network engineering, threat intelligence, and regulatory compliance.
+**Solomon Waikumi** | BCom (Strathmore) 🤝 Cybersecurity (Moringa School)
+*"Turning business risk into technical resilience."*
 
 ---
 
-## 🛠️ Technical Arsenal & Frameworks
-| Category | Tools & Standards |
+## 🚀 Professional Profile
+Strategic cybersecurity analyst with a background in Business Commerce, specializing in bridging the gap between enterprise risk and technical defense. This repository features **30+ professional labs** covering the full spectrum of security operations, from Active Directory exploitation to OT/SCADA critical infrastructure protection.
+
+---
+
+## 🛠️ Technical Arsenal
+
+| **Domain** | **Tools & Frameworks** |
 | :--- | :--- |
-| **🔍 SecOps** | ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-003F5C?style=flat-square) ![Greenbone](https://img.shields.io/badge/Greenbone-77bc1f?style=flat-square) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) |
-| **⚙️ Engineering** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![VyOS](https://img.shields.io/badge/VyOS-722120?style=flat-square) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
-| **⚖️ Compliance** | `NIST SP 800-53` • `ISO 27001` • `CIS Controls v8.1` • `GDPR` • `HIPAA` • `GLBA` |
-| **🕵️ Intelligence** | `MITRE ATT&CK` • `Cyber Kill Chain` • `Diamond Model` • `AlienVault OTX` |
+| **Offensive** | Burp Suite, OWASP ZAP, Metasploit, Scapy, Nmap, SQLMap |
+| **Defensive** | Wazuh (SIEM), Greenbone (Vulnerability Mgmt), VyOS (Networking), Snort |
+| **Infrastructure** | Docker, Linux (Ubuntu/Kali), ADB (Android), SCADA/OT Protocols |
+| **GRC/Intel** | NIST CSF, ISO 27001, MITRE ATT&CK, STRIDE, GDPR, HIPAA, GLBA |
+| **Languages** | Python (Security Automation), Bash, Regex |
 
 ---
 
-## 🚀 Featured Lab Vault (Moringa School)
+## 📂 Featured Technical Vault
 
-### 🕵️ Threat Intelligence & Attribution
-* **[APT29 Cozy Bear Hunt](./APT29_CozyBear_Threat_Hunting_Analysis_Report.pdf)**: Proactive threat hunting using TTP mapping for state-sponsored espionage.
-* **[Operation Silent Shadow](./Operation_Silent_Shadow_Attribution_and_Mitigation_Report.pdf)**: Full-lifecycle attribution and strategic mitigation report.
-* **[APT10 Intelligence Analysis](./APT10_MITRE_ATTACK_Intelligence_Analysis.pdf)**: Mapped the "MenuPass" actor group to the MITRE ATT&CK framework.
+### 🖥️ Web & Network Penetration Testing
+* **[Full-Stack Pentest: OWASP Juice Shop](./Full-Scope-Penetration-Tests)**: Structured assessment identifying SQLi, XSS, and Broken Access Control with a professional remediation roadmap.
+* **[AD Protocol Poisoning (NBT-NS/LLMNR)](./Active-Directory-Security)**: Python/Scapy script to intercept NTLM hashes via broadcast spoofing.
+* **[Metasploitable3 Linux Audit](./Full-Scope-Penetration-Tests)**: Comprehensive exploitation and system-level audit of a vulnerable Linux target.
 
-### 🔍 Security Operations (SIEM & Scanning)
-* **[Wazuh SIEM Deployment](./Wazuh_SIEM_Log_Analysis_and_Threat_Attribution_Report.pdf)**: Centralized log ingestion and threat attribution using Wazuh and Docker.
-* **[Nessus Smart City Audit](./Smart_City_Infrastructure_Vulnerability_Audit_CIS_Report.odt)**: Critical infrastructure audit using CIS Controls v8.1.
-* **[Regex Log Forensics](./Log_Analysis_Regex_Forensics_Report.pdf)**: Parsing raw logs for Indicators of Compromise (IoCs) via Regular Expressions.
+### ⚡ Critical Infrastructure & Mobile Security
+* **[Passive OT/SCADA Network Monitor](./OT-SCADA-Security)**: Non-intrusive Python scanner for Modbus, DNP3, and BACnet protocols in sensitive ICS environments.
+* **[ADB Mobile Vulnerability Scanner](./Mobile-Security)**: Automated Android security audit tool checking for root access, exposed ports, and outdated packages.
 
-### 🏗️ Secure Architecture & Engineering
-* **[VyOS Network Segmentation](./Secure_Healthcare_Network_Segmentation_and_Firewall_Audit.pdf)**: Engineering a healthcare network with MySQL port-level filtering.
-* **[Linux System Hardening](./User_Audit_Hardening_Report_Sandlot.pdf.pdf)**: Enforcing the Principle of Least Privilege (PoLP) and PAM policies.
+### 🕵️ Threat Intelligence & Incident Response
+* **[AI-Assisted IR Playbook (DarkCipher Ransomware)](./Security-Operations/IR-Playbook-Ransomware)**: NIST-aligned response strategy developed for a multi-datacenter cloud breach.
+* **[Adversary Attribution (APT29 & APT10)](./APT10_MITRE_ATTACK_Intelligence_Analysis.pdf)**: Deep-dive TTP mapping using the MITRE ATT&CK framework.
+* **[OSINT Reconnaissance Automation](./SecOps-and-SIEM)**: Python script for automated footprinting and intelligence gathering.
 
-### ⚖️ GRC & Risk Management
-* **[PaySecure GLBA Assessment](./PaySecure_GLBA_Vulnerability_Assessment_Report.pdf)**: Financial sector risk remediation and CVSS prioritization.
-* **[DataTrust GRC Strategy](./DataTrust_Solutions_GRC_Audit_and_Strategy_Report.pdf)**: Enterprise GRC roadmap and compliance alignment.
-
----
-
-## 🎮 TryHackMe Labs (Global Ranking: Top 30%)
-*Detailed technical write-ups documenting global security challenges.*
-
-* 🏛️ **[Governance & Regulation](./TryHackMe/Governance-and-Regulation.md)**: Bridging BCom strategy with technical security policy.
-* 🌐 **[Introductory Networking](./TryHackMe/Introductory-Networking.md)**: Mastered the OSI model, TCP/IP handshakes, and diagnostic tools.
-* 🐧 **[Linux Fundamentals](./TryHackMe/Linux-Fundamentals-Part1.md)**: Terminal proficiency and secure filesystem navigation.
+### ⚖️ GRC, Risk & Engineering
+* **[Automotive STRIDE Threat Modeling](./GRC-and-Risk)**: Applied Microsoft STRIDE framework to identify security flaws in modern vehicle systems.
+* **[Healthcare Network Segmentation](./Secure_Healthcare_Network_Segmentation_and_Firewall_Audit.pdf)**: Engineering a secure VyOS environment with MySQL port-level filtering.
+* **[Enterprise GRC Strategy](./DataTrust_Solutions_GRC_Audit_and_Strategy_Report.pdf)**: Audit and roadmap for GDPR/GLBA compliance alignment.
 
 ---
 
-## 📈 Professional Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=solomonwaikumi-cmyk&show_icons=true&theme=tokyonight" />
-  <img src="https://tryhackme-badges.adrelais.com/api/v1/badge/solomon.mwaura?theme=dark" />
-</p>
-
----
+## 📈 Industry Certifications & Training
+* **Moringa School:** Cybersecurity Engineering (Full-Time Intensive)
+* **Strathmore University:** Bachelor of Commerce (BCom)
+* **TryHackMe:** Top 30% Global Ranking
 
 ## 📬 Connect & Inquire
-* **Email:** [solomonwaikumi@gmail.com](mailto:solomonwaikumi@gmail.com) 
-* **Academic:** BCom (Strathmore University) | Cybersecurity (Moringa School)
-
----
-> *"Turning business risk into technical resilience."*
+* **Email:** solomonwaikumi@gmail.com
+* **LinkedIn:** www.linkedin.com/in/solomon-waikumi-6307a3403
